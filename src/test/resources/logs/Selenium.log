@@ -1,0 +1,76 @@
+18:42:38,678 DEBUG MLogger:38 - Launching Chrome Browser
+18:42:39,375 DEBUG MLogger:21 - clicking signin button
+18:42:39,531 DEBUG MLogger:21 - type username
+18:42:39,627 DEBUG MLogger:24 - type password
+18:42:39,694 DEBUG MLogger:27 - click submit button
+18:42:40,074 DEBUG MLogger:19 - click pay bills
+18:42:40,444 DEBUG MLogger:23 - click addpayee link
+18:42:40,510 DEBUG MLogger:26 - type payee name
+18:42:40,645 DEBUG MLogger:29 - type payee address
+18:42:40,841 DEBUG MLogger:32 - type account number
+18:42:40,914 DEBUG MLogger:35 - type payee details
+18:42:41,019 DEBUG MLogger:38 - click add button
+18:42:41,306 DEBUG MLogger:47 - Closing Browser
+18:42:41,335 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+18:42:41,340 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+18:42:41,343 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+18:42:41,347 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+18:42:41,347 DEBUG cache:45 - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/Users/buneetchandhok/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+18:42:42,503 DEBUG MLogger:38 - Launching Chrome Browser
+18:42:43,188 DEBUG MLogger:21 - clicking signin button
+18:42:43,415 DEBUG MLogger:47 - Closing Browser
+18:42:43,417 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+18:42:43,417 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+18:42:43,418 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+18:42:43,418 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+18:42:43,418 DEBUG cache:45 - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/Users/buneetchandhok/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+18:42:44,417 DEBUG MLogger:38 - Launching Chrome Browser
+18:42:45,038 DEBUG MLogger:21 - clicking signin button
+18:42:45,187 DEBUG MLogger:21 - type username
+18:42:45,283 DEBUG MLogger:24 - type password
+18:42:45,350 DEBUG MLogger:27 - click submit button
+18:42:45,727 DEBUG MLogger:19 - click pay bills
+18:42:46,092 DEBUG MLogger:50 - click purchase foreing currency link
+18:42:46,563 DEBUG MLogger:58 - click currency type
+18:42:46,656 DEBUG MLogger:61 - read and print sell rate
+18:42:46,706 DEBUG MLogger:68 - type purchase amount
+18:42:47,013 DEBUG MLogger:71 - select radio button
+18:42:47,072 DEBUG MLogger:74 - read and print conversion amount
+18:42:47,130 DEBUG MLogger:80 - click purchase button
+18:42:47,514 DEBUG MLogger:47 - Closing Browser
+18:42:47,516 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+18:42:47,516 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+18:42:47,517 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+18:42:47,518 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+18:42:47,518 DEBUG cache:45 - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/Users/buneetchandhok/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+18:42:48,558 DEBUG MLogger:38 - Launching Chrome Browser
+18:42:49,214 DEBUG MLogger:21 - clicking signin button
+18:42:49,355 DEBUG MLogger:21 - type username
+18:42:49,437 DEBUG MLogger:24 - type password
+18:42:49,510 DEBUG MLogger:27 - click submit button
+18:42:49,897 DEBUG MLogger:26 - click transfer funds
+18:42:50,154 DEBUG MLogger:44 - select from account
+18:42:50,229 DEBUG MLogger:51 - select to account
+18:42:50,334 DEBUG MLogger:22 - click from account dropdown
+18:42:50,426 DEBUG MLogger:25 - click to account dropdown
+18:42:50,738 DEBUG MLogger:28 - type transfer amount
+18:42:51,050 DEBUG MLogger:31 - type description
+18:42:51,138 DEBUG MLogger:34 - click continue button
+18:42:51,283 DEBUG MLogger:37 - click submit button
+18:42:51,513 DEBUG MLogger:47 - Closing Browser
+18:42:51,515 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+18:42:51,515 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+18:42:51,516 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+18:42:51,516 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+18:42:51,516 DEBUG cache:45 - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/Users/buneetchandhok/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+18:42:52,568 DEBUG MLogger:38 - Launching Chrome Browser
+18:42:53,202 DEBUG MLogger:21 - clicking signin button
+18:42:53,358 DEBUG MLogger:21 - type username
+18:42:53,444 DEBUG MLogger:24 - type password
+18:42:53,528 DEBUG MLogger:27 - click submit button
+18:42:54,016 DEBUG MLogger:47 - Closing Browser
+18:42:54,020 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+18:42:54,020 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+18:42:54,021 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+18:42:54,021 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+18:42:54,021 DEBUG cache:45 - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/Users/buneetchandhok/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

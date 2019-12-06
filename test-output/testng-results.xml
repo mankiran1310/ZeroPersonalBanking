@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="16821" started-at="2019-12-06T23:42:37Z" finished-at="2019-12-06T23:42:54Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="16821" started-at="2019-12-06T23:42:37Z" finished-at="2019-12-06T23:42:54Z">
+      <class name="com.testcases.TC003_VerifyAddNewPayee">
+        <test-method status="PASS" signature="verifyAddNewPayee()[pri:0, instance:com.testcases.TC003_VerifyAddNewPayee@4201c465]" name="verifyAddNewPayee" duration-ms="4036" started-at="2019-12-06T23:42:37Z" finished-at="2019-12-06T23:42:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddNewPayee -->
+      </class> <!-- com.testcases.TC003_VerifyAddNewPayee -->
+      <class name="com.testcases.TC001_VerifyHomePage">
+        <test-method status="PASS" signature="verifyHome()[pri:0, instance:com.testcases.TC001_VerifyHomePage@5b799640]" name="verifyHome" duration-ms="1897" started-at="2019-12-06T23:42:41Z" finished-at="2019-12-06T23:42:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHome -->
+      </class> <!-- com.testcases.TC001_VerifyHomePage -->
+      <class name="com.testcases.TC005_VerifyPurchaseForeignCurrency">
+        <test-method status="PASS" signature="verifyPurchaseForeignCurrency()[pri:0, instance:com.testcases.TC005_VerifyPurchaseForeignCurrency@6cb107fd]" name="verifyPurchaseForeignCurrency" duration-ms="4028" started-at="2019-12-06T23:42:43Z" finished-at="2019-12-06T23:42:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPurchaseForeignCurrency -->
+      </class> <!-- com.testcases.TC005_VerifyPurchaseForeignCurrency -->
+      <class name="com.testcases.TC002_VerifyLogin">
+        <test-method status="PASS" signature="verifyLogin()[pri:0, instance:com.testcases.TC002_VerifyLogin@3de8f619]" name="verifyLogin" duration-ms="2455" started-at="2019-12-06T23:42:51Z" finished-at="2019-12-06T23:42:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+      </class> <!-- com.testcases.TC002_VerifyLogin -->
+      <class name="com.testcases.TC004_VerifyTransferFunds">
+        <test-method status="PASS" signature="verifyTransferFunds()[pri:0, instance:com.testcases.TC004_VerifyTransferFunds@710636b0]" name="verifyTransferFunds" duration-ms="3960" started-at="2019-12-06T23:42:47Z" finished-at="2019-12-06T23:42:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTransferFunds -->
+      </class> <!-- com.testcases.TC004_VerifyTransferFunds -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
