@@ -2,36 +2,36 @@
 <testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="19168" started-at="2019-12-07T01:16:25Z" finished-at="2019-12-07T01:16:44Z">
+  <suite name="Suite" duration-ms="22122" started-at="2019-12-07T03:10:36Z" finished-at="2019-12-07T03:10:58Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="19168" started-at="2019-12-07T01:16:25Z" finished-at="2019-12-07T01:16:44Z">
+    <test name="Test" duration-ms="22122" started-at="2019-12-07T03:10:36Z" finished-at="2019-12-07T03:10:58Z">
       <class name="com.testcases.TC003_VerifyAddNewPayee">
-        <test-method status="PASS" signature="verifyAddNewPayee()[pri:0, instance:com.testcases.TC003_VerifyAddNewPayee@5149d738]" name="verifyAddNewPayee" duration-ms="4585" started-at="2019-12-07T01:16:25Z" finished-at="2019-12-07T01:16:30Z">
+        <test-method status="PASS" signature="verifyAddNewPayee()[pri:0, instance:com.testcases.TC003_VerifyAddNewPayee@3a7442c7]" name="verifyAddNewPayee" duration-ms="4304" started-at="2019-12-07T03:10:43Z" finished-at="2019-12-07T03:10:47Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyAddNewPayee -->
       </class> <!-- com.testcases.TC003_VerifyAddNewPayee -->
       <class name="com.testcases.TC001_VerifyHomePage">
-        <test-method status="PASS" signature="verifyHome()[pri:0, instance:com.testcases.TC001_VerifyHomePage@6bbe85a8]" name="verifyHome" duration-ms="2023" started-at="2019-12-07T01:16:30Z" finished-at="2019-12-07T01:16:32Z">
+        <test-method status="PASS" signature="verifyHome()[pri:0, instance:com.testcases.TC001_VerifyHomePage@5149d738]" name="verifyHome" duration-ms="3911" started-at="2019-12-07T03:10:36Z" finished-at="2019-12-07T03:10:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyHome -->
       </class> <!-- com.testcases.TC001_VerifyHomePage -->
       <class name="com.testcases.TC005_VerifyPurchaseForeignCurrency">
-        <test-method status="PASS" signature="verifyPurchaseForeignCurrency()[pri:0, instance:com.testcases.TC005_VerifyPurchaseForeignCurrency@3a7442c7]" name="verifyPurchaseForeignCurrency" duration-ms="4682" started-at="2019-12-07T01:16:32Z" finished-at="2019-12-07T01:16:37Z">
+        <test-method status="PASS" signature="verifyPurchaseForeignCurrency()[pri:0, instance:com.testcases.TC005_VerifyPurchaseForeignCurrency@548d708a]" name="verifyPurchaseForeignCurrency" duration-ms="5793" started-at="2019-12-07T03:10:52Z" finished-at="2019-12-07T03:10:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyPurchaseForeignCurrency -->
       </class> <!-- com.testcases.TC005_VerifyPurchaseForeignCurrency -->
       <class name="com.testcases.TC002_VerifyLogin">
-        <test-method status="PASS" signature="verifyLogin()[pri:0, instance:com.testcases.TC002_VerifyLogin@548d708a]" name="verifyLogin" duration-ms="2583" started-at="2019-12-07T01:16:42Z" finished-at="2019-12-07T01:16:44Z">
+        <test-method status="PASS" signature="verifyLogin()[pri:0, instance:com.testcases.TC002_VerifyLogin@6bbe85a8]" name="verifyLogin" duration-ms="3084" started-at="2019-12-07T03:10:40Z" finished-at="2019-12-07T03:10:43Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLogin -->
       </class> <!-- com.testcases.TC002_VerifyLogin -->
       <class name="com.testcases.TC004_VerifyTransferFunds">
-        <test-method status="PASS" signature="verifyTransferFunds()[pri:0, instance:com.testcases.TC004_VerifyTransferFunds@4be29ed9]" name="verifyTransferFunds" duration-ms="4930" started-at="2019-12-07T01:16:37Z" finished-at="2019-12-07T01:16:42Z">
+        <test-method status="PASS" signature="verifyTransferFunds()[pri:0, instance:com.testcases.TC004_VerifyTransferFunds@4be29ed9]" name="verifyTransferFunds" duration-ms="4637" started-at="2019-12-07T03:10:47Z" finished-at="2019-12-07T03:10:52Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyTransferFunds -->

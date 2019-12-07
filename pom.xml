@@ -147,7 +147,7 @@
 						<configuration>
 						<testFailureIgnore> false </testFailureIgnore>
 							<suiteXmlFiles>
-								<suiteXmlFile>login_data.xml</suiteXmlFile>
+								<suiteXmlFile>src/test/resources/runner/login_data.xml</suiteXmlFile>
 							</suiteXmlFiles>
 						</configuration>
 					</plugin>
@@ -166,7 +166,7 @@
 						<configuration>
 						<testFailureIgnore> false </testFailureIgnore>
 							<suiteXmlFiles>
-								<suiteXmlFile>addPayee_data.xml</suiteXmlFile>
+								<suiteXmlFile>src/test/resources/runner/addPayee_data.xml</suiteXmlFile>
 							</suiteXmlFiles>
 						</configuration>
 					</plugin>
