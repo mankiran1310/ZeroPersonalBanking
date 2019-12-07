@@ -1,0 +1,7 @@
+com/datadriventests/TC002_AddPayeeTest_data.class
+com/testcases/TC001_VerifyHomePage.class
+com/testcases/TC002_VerifyLogin.class
+com/testcases/TC004_VerifyTransferFunds.class
+com/datadriventests/TC001_LoginTest_data.class
+com/testcases/TC003_VerifyAddNewPayee.class
+com/testcases/TC005_VerifyPurchaseForeignCurrency.class

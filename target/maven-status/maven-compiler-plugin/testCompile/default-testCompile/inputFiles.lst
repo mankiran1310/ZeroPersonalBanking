@@ -1,5 +1,7 @@
 /Users/buneetchandhok/eclipse-workspace/ZeroPersonalBanking/src/test/java/com/testcases/TC005_VerifyPurchaseForeignCurrency.java
 /Users/buneetchandhok/eclipse-workspace/ZeroPersonalBanking/src/test/java/com/testcases/TC003_VerifyAddNewPayee.java
+/Users/buneetchandhok/eclipse-workspace/ZeroPersonalBanking/src/test/java/com/datadriventests/TC002_AddPayeeTest_data.java
 /Users/buneetchandhok/eclipse-workspace/ZeroPersonalBanking/src/test/java/com/testcases/TC002_VerifyLogin.java
 /Users/buneetchandhok/eclipse-workspace/ZeroPersonalBanking/src/test/java/com/testcases/TC004_VerifyTransferFunds.java
+/Users/buneetchandhok/eclipse-workspace/ZeroPersonalBanking/src/test/java/com/datadriventests/TC001_LoginTest_data.java
 /Users/buneetchandhok/eclipse-workspace/ZeroPersonalBanking/src/test/java/com/testcases/TC001_VerifyHomePage.java
