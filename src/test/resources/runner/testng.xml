@@ -4,6 +4,7 @@
  
    <listeners>
   <listener class-name="com.listeners.CustomListeners"></listener>
+  <listener class-name="org.uncommons.reportng.HTMLReporter"></listener>
   </listeners>
   
    <test thread-count="5" name="Test">

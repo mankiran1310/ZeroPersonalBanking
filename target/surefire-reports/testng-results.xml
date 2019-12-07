@@ -1,41 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="22122" started-at="2019-12-07T03:10:36Z" finished-at="2019-12-07T03:10:58Z">
+  <suite name="Suite" duration-ms="8473" started-at="2019-12-07T03:16:22Z" finished-at="2019-12-07T03:16:30Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="22122" started-at="2019-12-07T03:10:36Z" finished-at="2019-12-07T03:10:58Z">
-      <class name="com.testcases.TC003_VerifyAddNewPayee">
-        <test-method status="PASS" signature="verifyAddNewPayee()[pri:0, instance:com.testcases.TC003_VerifyAddNewPayee@3a7442c7]" name="verifyAddNewPayee" duration-ms="4304" started-at="2019-12-07T03:10:43Z" finished-at="2019-12-07T03:10:47Z">
+    <test name="Test" duration-ms="8473" started-at="2019-12-07T03:16:22Z" finished-at="2019-12-07T03:16:30Z">
+      <class name="com.datadriventests.TC002_AddPayeeTest_data">
+        <test-method status="PASS" signature="verifyAddNewPayee(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.datadriventests.TC002_AddPayeeTest_data@795509d9]" name="verifyAddNewPayee" duration-ms="4209" started-at="2019-12-07T03:16:22Z" data-provider="payeeData" finished-at="2019-12-07T03:16:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Armin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[London]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA['7895353']]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Rent]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyAddNewPayee -->
-      </class> <!-- com.testcases.TC003_VerifyAddNewPayee -->
-      <class name="com.testcases.TC001_VerifyHomePage">
-        <test-method status="PASS" signature="verifyHome()[pri:0, instance:com.testcases.TC001_VerifyHomePage@5149d738]" name="verifyHome" duration-ms="3911" started-at="2019-12-07T03:10:36Z" finished-at="2019-12-07T03:10:40Z">
+        <test-method status="PASS" signature="verifyAddNewPayee(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.datadriventests.TC002_AddPayeeTest_data@795509d9]" name="verifyAddNewPayee" duration-ms="3947" started-at="2019-12-07T03:16:26Z" data-provider="payeeData" finished-at="2019-12-07T03:16:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Jaski]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[New York]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA['5469231']]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Car Lease]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- verifyHome -->
-      </class> <!-- com.testcases.TC001_VerifyHomePage -->
-      <class name="com.testcases.TC005_VerifyPurchaseForeignCurrency">
-        <test-method status="PASS" signature="verifyPurchaseForeignCurrency()[pri:0, instance:com.testcases.TC005_VerifyPurchaseForeignCurrency@548d708a]" name="verifyPurchaseForeignCurrency" duration-ms="5793" started-at="2019-12-07T03:10:52Z" finished-at="2019-12-07T03:10:58Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- verifyPurchaseForeignCurrency -->
-      </class> <!-- com.testcases.TC005_VerifyPurchaseForeignCurrency -->
-      <class name="com.testcases.TC002_VerifyLogin">
-        <test-method status="PASS" signature="verifyLogin()[pri:0, instance:com.testcases.TC002_VerifyLogin@6bbe85a8]" name="verifyLogin" duration-ms="3084" started-at="2019-12-07T03:10:40Z" finished-at="2019-12-07T03:10:43Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- verifyLogin -->
-      </class> <!-- com.testcases.TC002_VerifyLogin -->
-      <class name="com.testcases.TC004_VerifyTransferFunds">
-        <test-method status="PASS" signature="verifyTransferFunds()[pri:0, instance:com.testcases.TC004_VerifyTransferFunds@4be29ed9]" name="verifyTransferFunds" duration-ms="4637" started-at="2019-12-07T03:10:47Z" finished-at="2019-12-07T03:10:52Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- verifyTransferFunds -->
-      </class> <!-- com.testcases.TC004_VerifyTransferFunds -->
+        </test-method> <!-- verifyAddNewPayee -->
+      </class> <!-- com.datadriventests.TC002_AddPayeeTest_data -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>

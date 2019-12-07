@@ -33,7 +33,7 @@ public class Page {
 		if(Constants.browser.equalsIgnoreCase("chrome")) {
 			
 			System.setProperty("webdriver.chrome.driver", "/Users/buneetchandhok/Desktop/Testing/driver/chromedriver");
-					//System.getProperty("user.dir") + "\\src\\test\\resources\\executables\\chromedriver.exe");
+					//System.getProperty("user.dir") + "/src/test/resources/executables/chromedriver");
 			driver = new ChromeDriver();
 			log.debug("Launching Chrome Browser");
 			test.log(LogStatus.INFO, "Chrome Browser Launched");
